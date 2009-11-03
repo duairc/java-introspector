@@ -1,0 +1,1 @@
+Make the root class in your class hierarchy inherit from Introspector and away you go.
