@@ -1,4 +1,3 @@
-package GIS;
 import java.lang.reflect.*;
 
 abstract class Introspector {
